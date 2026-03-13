@@ -4,7 +4,7 @@ This project uses machine learning to predict whether a patient has diabetes bas
 
 ## Features
 - Data preprocessing
-- Machine learning prediction model
+- ML prediction model
 - API for prediction
 
 ## Technologies Used
