@@ -1,4 +1,4 @@
-# Diabetes Prediction
+# Diabetes Risk Prediction
 
 This project uses machine learning to predict whether a patient has diabetes based on medical data.
 
