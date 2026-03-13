@@ -1,22 +1,30 @@
 # Diabetes Risk Prediction
 
-This project uses machine learning to predict whether a patient has diabetes based on medical data.
+A machine learning project that predicts whether a patient has diabetes based on medical data.
 
 ## Features
-- Data preprocessing
-- ML prediction model
-- API for prediction
+
+* ML prediction model
+* Data preprocessing
+* API for prediction
 
 ## Technologies Used
-- Python
-- Scikit-learn
-- Pandas
-- NumPy
+
+* Python
+* Scikit-learn
+* Pandas
+* Joblib
+
+## Project Goal
+
+To demonstrate how machine learning can be used in healthcare prediction systems.
 
 ## How to Run
-1. Clone the repository
-2. Install requirements
-3. Run the prediction script
+
+1. Install required packages
+2. Run the API script
+3. Provide input data to get predictions
+
 
 ## Future Improvements
 - Web interface
